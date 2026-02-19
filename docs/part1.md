@@ -8,10 +8,10 @@ nav_order: 1
 [LLM 프롬프트 참고 업로드용 파일(TXT) 다운로드]({{ site.baseurl }}/downloads/guide_part1.txt)  
 
 ---
-# 한국 보건의료정책 Gray Literature 검색 방법 - Part1. 정부/민간기관
+## 한국 보건의료정책 Gray Literature 검색 방법 - Part1. 정부/민간기관
 <div style="text-align:right;">2026.02.18 기준</div>
 
-## 배경
+### 배경
 - 첫째, 한국 보건의료정책 관련 자료 중 Gray Literature는 체계적으로 정리되어 있지 않아 검색이 어려움
   - Peer review된 논문의 경우도 Pubmed에 등재(Pubmed에 등재되는 한국/외국 저널에 실리는 경우)되지 않으면 마찬가지 상황이며 이에 대해서는 따로 정리 예정
   - Gray Literature(회색 문헌) : 학술지나 상업 출판물을 통해 정식 배포되지 않고 비공식 채널로 유통되는 연구·정책 자료. 주로 정부 보고서, 토론회 자료집, 백서, 컨퍼런스 프로시딩, 정책 브리핑 등을 포함
