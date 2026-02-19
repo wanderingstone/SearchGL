@@ -1,0 +1,18 @@
+@import "just-the-docs";
+
+/* Readability tweaks */
+.main-content {
+  max-width: 980px;
+}
+
+p, li {
+  line-height: 1.75;
+}
+
+code, pre {
+  font-size: 0.95em;
+}
+
+h1, h2, h3 {
+  line-height: 1.25;
+}

@@ -1,0 +1,23 @@
+title: SearchGL
+description: "한국 보건의료정책 Gray Literature 검색 방법"
+lang: ko-KR
+
+remote_theme: just-the-docs/just-the-docs
+color_scheme: light
+search_enabled: true
+
+# Project Pages 설정
+url: "https://wanderingstone.github.io"
+baseurl: "/SearchGL"
+
+aux_links:
+  "GitHub Repository":
+    - "https://github.com/wanderingstone/SearchGL"
+
+plugins:
+  - jekyll-remote-theme
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
