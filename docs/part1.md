@@ -56,139 +56,139 @@ nav_order: 1
 ### 기관/단체별 웹페이지 설명
 A. 정부 기관
 - 보건복지부
-	- https://www.mohw.go.kr/
+	- [https://www.mohw.go.kr/](https://www.mohw.go.kr/)
 	- RSS가능
 	- 주 자료 메뉴 : 정보 -> 연구조사발간자료
 	- 추천 메뉴 : [보건복지부자료실](https://library.mohw.go.kr/), 사업별 페이지(통합돌봄 등)
 - 질병관리청
-	- https://www.kdca.go.kr/
+	- [https://www.kdca.go.kr/](https://www.kdca.go.kr/)
 	- RSS가능
 	- 주 자료 메뉴 : 연구보고서는 국립보건연구원으로 연결
 	- 추천 메뉴 : 사업별 페이지(감염병포털, 국건영, 지보계, 만성질환건강통계, 예방접종도우미 등)
 - 식품의약품안전처
-	- https://www.mfds.go.kr/
+	- [https://www.mfds.go.kr/](https://www.mfds.go.kr/)
 	- RSS가능
 	- 주 자료 메뉴 : 법령자료 --> 자료실
 	- 추천 메뉴 : 관련 누리집 모음
 - 한국보건사회연구원
-	- https://www.kihasa.re.kr
+	- [https://www.kihasa.re.kr](https://www.kihasa.re.kr)
 	- RSS가능
 	- 알리오에 있음
 	- 주 자료 메뉴 : 발간자료(보고서, 정기간행물)
 	- 추천 메뉴 : [보건복지데이터포털](https://www.kihasa.re.kr/dataportal/main.html)
 	- [연구성과물아카이브](https://repository.kihasa.re.kr/)
 - 한국건강증진개발원
-	- https://www.khealth.or.kr
+	- [https://www.khealth.or.kr](https://www.khealth.or.kr)
 	- 알리오에 있음
 	- 주 자료 메뉴 : 자료실
 	- 추천 메뉴 : 유튜브 토론회/공청회 등
 - 국민건강보험공단
-	- https://www.nhis.or.kr/
+	- [https://www.nhis.or.kr/](https://www.nhis.or.kr/)
 	- 알리오에 있음
 	- 주 자료 메뉴 : 정책제도 --> 연구통계
 	- 추천 메뉴 : 분야별 업무 사이트(건강보험빅데이터플랫폼, 비급여 정보 포탈)
 - 건강보험심사평가원
-	- https://www.hira.or.kr/
+	- [https://www.hira.or.kr/](https://www.hira.or.kr/)
 	- RSS가능
 	- 알리오에 있음
 	- 주 자료 메뉴 : 의료정보 --> 연구통계
 	- 추천 메뉴 : 주요연계업무사이트(보건의료빅데이터개방시스템, 병원평가통합포털, [HIRA OAK 리포지터리](https://repository.hira.or.kr/)), 조회/신청 -> 비급여진료비용 정보
 - 한국보건의료연구원(NECA)
-	- https://www.neca.re.kr/
+	- [https://www.neca.re.kr/](https://www.neca.re.kr/)
 	- 알리오에 있음
 	- 주 자료 메뉴 : 연구정보
 	- 추천 메뉴 : 내부관련사이트(환자중심 의료기술 최적화 연구사업)
 - 국립중앙의료원 공공보건의료본부
-	- https://www.ppm.or.kr/
+	- [https://www.ppm.or.kr/](https://www.ppm.or.kr/)
 	- 알리오에 있음
 	- 주 자료 메뉴 : 각 센터 자료실
 	- 추천 메뉴 : 헬스맵
 - 국립암센터
-	- https://www.ncc.re.kr/
+	- [https://www.ncc.re.kr/](https://www.ncc.re.kr/)
 	- 알리오에 있음
 	- 주 자료 메뉴 : 따로 없음
 	- 추천 메뉴 : 국가암지식정보센터
 - 한국보건의료정보원
-	- https://www.k-his.or.kr/
+	- [https://www.k-his.or.kr/](https://www.k-his.or.kr/)
 	- 알리오에 있음
 	- 주 자료 메뉴 : 알림마당->자료실
 	- 추천 메뉴 : 알림마당 -> 포럼/세미나 자료
 - 한국보건산업진흥원
-	- https://www.khidi.or.kr/
+	- [https://www.khidi.or.kr/](https://www.khidi.or.kr/)
 	- 알리오에 있음
 	- 주 자료 메뉴 : 동향과정보(게시판별로 따로)
 	- 추천 메뉴 : 매트릭스 서비스
 - 한국보건복지인재원
-	- https://www.kohi.or.kr/
+	- [https://www.kohi.or.kr/](https://www.kohi.or.kr/)
 	- 알리오에 있음
 	- 주 자료 메뉴 : 소통마당 --> KOHI자료실
 	- 추천 메뉴 : 유튜브
 - 국립재활원
-	- https://www.nrc.go.kr/
+	- [https://www.nrc.go.kr/](https://www.nrc.go.kr/)
 	- 주 자료 메뉴 : 자료실
 	- 추천 메뉴 : 중앙장애인보건의료센터
 - 국립정신건강센터
-	- https://www.ncmh.go.kr/
+	- [https://www.ncmh.go.kr/](https://www.ncmh.go.kr/)
 	- 주 자료 메뉴 : 자료실
 	- 추천 메뉴 : 정신건강연구소, 정신건강사업부
 
  B. 민간 기관, 단체 등
 
  - 대한의사협회 의료정책연구원(RIHP)
-	- https://rihp.re.kr/
+	- [https://rihp.re.kr/](https://rihp.re.kr/)
 	- 주 자료 메뉴 : 연구자료
 - 대한치과의사협회 치과의료정책연구원
-	- http://www.hpikda.or.kr/
+	- [http://www.hpikda.or.kr/](http://www.hpikda.or.kr/)
 	- 주 자료 메뉴 : 자료실, 발간자료
 - 대한민국의학한림원
-	- https://www.namok.or.kr/
+	- [https://www.namok.or.kr/](https://www.namok.or.kr/)
 	- 주 자료 메뉴 : 자료실
 - 한국의학바이오기자협회
-	- https://kamj.org/
+	- [https://kamj.org/](https://kamj.org/)
 	- 주 자료 메뉴 : 협회소식 --> 자료실
 - 연구공동체 건강과대안
-	- http://www.chsc.or.kr/
+	- [http://www.chsc.or.kr/](http://www.chsc.or.kr/)
 	- RSS가능
 - 건강권 실현을 위한 보건의료단체연합
-	- https://kfhr.org/
+	- [https://kfhr.org/](https://kfhr.org/)
 	- RSS가능
 - 의료 민영화 저지와 무상의료 실현을 위한 운동본부(무상의료운동본부)
-	- https://medical.jinbo.net/xe/
+	- [https://medical.jinbo.net/xe/](https://medical.jinbo.net/xe/)
 	- RSS가능
 - 좋은공공병원만들기운동본부
-	- https://peoples-hospital.campaignus.me/
+	- [https://peoples-hospital.campaignus.me/](https://peoples-hospital.campaignus.me/)
 - 건강세상네트워크
-	- https://konkang2020.tistory.com/
+	- [https://konkang2020.tistory.com/](https://konkang2020.tistory.com/)
 	- RSS가능
 - 인도주의실천의사협의회
-	- https://www.humanmed.org/
+	- [https://www.humanmed.org/](https://www.humanmed.org/)
 - 건강사회를 위한 치과의사회
-	- https://gunchi.org/
+	- [https://gunchi.org/](https://gunchi.org/)
 - 노동건강연대
-	- https://laborhealth.or.kr/
+	- [https://laborhealth.or.kr/](https://laborhealth.or.kr/)
 	- RSS가능
 - 전국보건의료산업노동조합(보건의료노조)
-	- https://bogun.nodong.org
+	- [https://bogun.nodong.org](https://bogun.nodong.org)
 	- RSS가능
 - 시민건강연구소
-	- https://health.re.kr/
+	- [https://health.re.kr/](https://health.re.kr/)
 	- RSS가능
 - 한국환자단체연합회
-	- http://www.koreapatient.com
+	- [http://www.koreapatient.com](http://www.koreapatient.com)
 - 돌봄과 미래
-	- https://dolbom-mirae.imweb.me
+	- [https://dolbom-mirae.imweb.me](https://dolbom-mirae.imweb.me)
 - 사회건강연구소
-	- https://www.ishealth.org/
+	- [https://www.ishealth.org/](https://www.ishealth.org/)
 - 참여연대 사회복지위원회
-	- https://www.peoplepower21.org/category/welfare
+	- [https://www.peoplepower21.org/category/welfare](https://www.peoplepower21.org/category/welfare)
 - 전국의료산업노동조합연맹(의료노련)
-	- https://fkmtu.net/
+	- [https://fkmtu.net/](https://fkmtu.net/)
 - 내가만드는복지국가
-	- https://mywelfarestate.kr/
+	- [https://mywelfarestate.kr/](https://mywelfarestate.kr/)
 - 전국전공의노동조합
-	- https://www.kirulabor.org
+	- [https://www.kirulabor.org](https://www.kirulabor.org)
 - 대한의학회
-	- https://www.kams.or.kr
+	- [https://www.kams.or.kr](https://www.kams.or.kr)
 
 ## 원문 PDF 미리보기
 <iframe class="pdf-frame" src="{{ site.baseurl }}/assets/source.pdf"></iframe>
