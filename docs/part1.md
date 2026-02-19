@@ -4,12 +4,12 @@ title: Part 1 정부·민간기관
 nav_order: 1
 ---
 
-[원문 PDF 다운로드]({{ site.baseurl }}/assets/source.pdf)  
-[가이드 TXT 다운로드]({{ site.baseurl }}/downloads/guide_part1.txt)  
+[검색방법설명(PDF) 다운로드]({{ site.baseurl }}/assets/source.pdf)  
+[LLM 프롬프트 참고 업로드용 파일(TXT) 다운로드]({{ site.baseurl }}/downloads/guide_part1.txt)  
 
 ---
 # 한국 보건의료정책 Gray Literature 검색 방법 - Part1. 정부/민간기관
-2026.02.18 기준
+<div style="text-align:right;">2026.02.18 기준</div>
 
 ## 배경
 - 첫째, 한국 보건의료정책 관련 자료 중 Gray Literature는 체계적으로 정리되어 있지 않아 검색이 어려움
@@ -45,7 +45,7 @@ nav_order: 1
 	- LLM 종류에 따라 차이가 (매우) 커서, 정확한 자료를 모두 찾는 목적이라기보다는 관련 내용 검색 시에 이 웹페이지를 빼지 말고 찾는 것을 목적으로 함
 	- 기관/단체 웹페이지 성격을 고려하여 LLM 프롬프트를 저장해놓고 쓸 수 있음
 	- Deep research를 할 때도 이 프롬프트를 추가하면 빠지지 않고 검색 가능
-	- 각 웹페이지에 대한 설명을 담은 파일을 업로드하고, 참고하여 답변하라고 요청
+	- 각 웹페이지에 대한 설명을 담은 [파일]({{ site.baseurl }}/downloads/guide_part1.txt)을 업로드하고, 참고하여 답변하라고 요청
 	- 필요에 따라 기관/단체를 선택하기 
 	- 중요 규칙
 		- 절대 링크를 추측/생성하지 말 것

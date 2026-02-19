@@ -17,3 +17,7 @@
   border: 1px solid #e5e5e5;
   border-radius: 12px;
 }
+/* left sidebar hide */
+.side-bar { display: none; }
+.main { margin-left: 0; }
+.main-content-wrap { padding-left: 2rem; }
