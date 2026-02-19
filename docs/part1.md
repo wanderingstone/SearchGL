@@ -8,7 +8,7 @@ nav_order: 1
 [LLM 프롬프트 참고 업로드용 파일(TXT) 다운로드]({{ site.baseurl }}/downloads/guide_part1.txt)  
 
 ---
-## 한국 보건의료정책 Gray Literature 검색 방법 - Part1. 정부/민간기관
+## **한국 보건의료정책 Gray Literature 검색 방법 - Part1. 정부/민간기관**
 <div style="text-align:right;">2026.02.18 기준</div>
 
 ### **배경**
