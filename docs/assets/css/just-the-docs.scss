@@ -20,21 +20,5 @@ h1, h2, h3 {
   line-height: 1.25;
 }
 
-/* 1) 페이지 본문 H1 크기 축소 */
-.main-content h1 {
-  font-size: 1.6rem;
-}
-
-/* 2) Part1 상단 큰 제목(첫번째 H1)만 더 줄이고 싶으면 사용 */
-.main-content h1:first-of-type {
-  font-size: 1.5rem;
-}
-
-/* PDF iframe 가독성 */
-.pdf-frame {
-  width: 100%;
-  height: 80vh;
-  border: 1px solid #e5e5e5;
-  border-radius: 12px;
-}
-
+/* H1 크기 축소 */
+.main-content h1 { font-size: 1.6rem; }
